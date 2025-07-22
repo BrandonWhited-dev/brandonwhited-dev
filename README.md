@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Brandon Whited 👋
+
+I'm a Temple University graduate with a passion for web development. After several years building full stack web applications, I recently transitioned to backend programming with Go.
+
+I'm currently on the look out for a role in backend web development, ideally writing Go
+
 
 <!--
 **BrandonWhited-dev/brandonwhited-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
