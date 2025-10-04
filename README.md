@@ -2,6 +2,8 @@
 
 I'm a Temple University graduate with a passion for web development. After several years building full stack web applications, I recently transitioned to backend programming with Go.
 
+I am the developer and maintainer of twitchkit. A series of Go libraries that interacts with Twitch's IRC, EventSub, and API.
+
 I'm currently on the look out for a role in backend web development, ideally writing Go
 
 
